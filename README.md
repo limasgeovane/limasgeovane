@@ -2,7 +2,7 @@
 
 
 ## 👤 Sobre mim
-Programador iOS nativo - Formado em Sistemas de Informação e atuante em tecnologia há mais de 10 anos.
+Programador iOS nativo
 
 ## 💬 Contatos
 
